@@ -7,7 +7,7 @@
     </p>
 
     <p class="home-links">
-      <a href="https://instagram.xom/astrologyforcats/" target="_blank" rel="noopener">insta</a>
+      <a href="https://instagram.com/astrologyforcats/" target="_blank" rel="noopener">insta</a>
       <a href="https://github.com/amandamunoz/astrologyforcats" target="_blank" rel="noopener">contribute to this project</a>
     </p>
 
